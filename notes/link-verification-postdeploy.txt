@@ -1,0 +1,57 @@
+Link verification report
+Generated: Mon Jun  1 10:10:54 PDT 2026
+
+PASS 200  https://cannabis.ca.gov/
+PASS 200  https://cannabis.ny.gov/
+CHALLENGED 403  https://cannabisnow.com/
+PASS 200  https://cannabiswire.com/
+CHALLENGED 403  https://crsreports.congress.gov/product/pdf/R/R44782
+PASS 200  https://greatergood.berkeley.edu/
+CHALLENGED 403  https://hempindustrydaily.com/
+PASS 200  https://hightimes.com/
+PASS 200  https://longevity.stanford.edu/
+PASS 200  https://medlineplus.gov/
+CHALLENGED 403  https://mjbizdaily.com/
+PASS 200  https://my.clevelandclinic.org/health
+PASS 200  https://nida.nih.gov/research-topics/cannabis-marijuana
+PASS 200  https://norml.org/
+PASS 200  https://odphp.health.gov/
+PASS 200  https://pubmed.ncbi.nlm.nih.gov/?term=cannabinoids
+PASS 200  https://sbg.colorado.gov/med
+PASS 200  https://www.acsm.org/
+PASS 200  https://www.ams.usda.gov/rules-regulations/hemp
+PASS 200  https://www.apa.org/topics
+PASS 200  https://www.benzinga.com/cannabis
+CHALLENGED 403  https://www.cannabisbusinesstimes.com/
+PASS 200  https://www.cdc.gov/
+PASS 200  https://www.cdc.gov/cannabis/about/index.html
+CHALLENGED 403  https://www.dea.gov/drug-information/drug-policy
+PASS 200  https://www.eatright.org/
+PASS 200  https://www.everydayhealth.com/
+PASS 200  https://www.fda.gov/news-events/public-health-focus/fda-regulation-cannabis-and-cannabis-derived-products-including-cannabidiol-cbd
+PASS 200  https://www.greenmarketreport.com/
+PASS 200  https://www.health.harvard.edu/
+PASS 200  https://www.healthline.com/
+PASS 200  https://www.heart.org/en/healthy-living
+CHALLENGED 403  https://www.hhs.gov/
+CHALLENGED 403  https://www.hopkinsmedicine.org/health
+PASS 200  https://www.leafly.com/news
+PASS 200  https://www.marijuanamoment.net/
+CHALLENGED 403  https://www.mayoclinic.org/healthy-lifestyle
+PASS 200  https://www.mindful.org/
+PASS 200  https://www.nccih.nih.gov/health/cannabis-marijuana-and-cannabinoids-what-you-need-to-know
+PASS 200  https://www.nia.nih.gov/health
+CHALLENGED 403  https://www.nih.gov/health-information
+PASS 200  https://www.nytimes.com/section/well
+PASS 200  https://www.nytimes.com/topic/subject/marijuana-and-medical-marijuana
+PASS 200  https://www.projectcbd.org/
+PASS 200  https://www.self.com/health
+PASS 200  https://www.sleepfoundation.org/
+PASS 200  https://www.ucsfhealth.org/education
+CHALLENGED 403  https://www.verywellhealth.com/
+CHALLENGED 403  https://www.verywellmind.com/
+
+TOTAL: 49
+PASS: 37
+CHALLENGED (likely bot protection, valid for human browsers): 12
+FAIL: 0
