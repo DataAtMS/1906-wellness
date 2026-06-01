@@ -96,10 +96,10 @@ export const cannabisLinks: LinkSection[] = [
     heading: "Industry Publications",
     items: [
       {
-        title: "Marijuana Business Daily",
-        url: "https://mjbizdaily.com/",
+        title: "Ganjapreneur",
+        url: "https://www.ganjapreneur.com/news/",
         description:
-          "Daily B2B news for cannabis operators, investors, and ancillary businesses.",
+          "Independent cannabis industry news covering business, culture, policy, and emerging brands.",
       },
       {
         title: "High Times",
